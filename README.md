@@ -11,4 +11,4 @@
 
 ## 相关功能逻辑
 
-- 
+- ![OAuth 登录逻辑实现](https://github.com/tsruixi/Springboot-learn/blob/master/img/OAuth.png)
