@@ -12,3 +12,4 @@
 ## 相关功能逻辑
 
 - ![OAuth 登录逻辑实现](https://github.com/tsruixi/Springboot-learn/blob/master/img/OAuth.png)
+- ![UML建模常用图标](https://github.com/tsruixi/Springboot-learn/blob/master/img/UML.png)
